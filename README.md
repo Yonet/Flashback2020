@@ -1,4 +1,4 @@
-﻿# Flashback2020
+# Flashback2020
 
 Flashback Conference WebXR Demo.
 
@@ -66,6 +66,6 @@ npm start
 ## Other Resources
 
 * [Mixed Reality Resources](http://bit.ly/MixedRealityResources)
-* [Windows Mixed Reality Development](https://docs.microsoft.com/en-us/windows/mixed-reality/?WT.mc_id=flashback-github-ayyonet)
+* [Windows Mixed Reality Development](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=aiml-0000-ayyonet)
 * [WebXR APIs](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 * [ImmersiveWeb. Dev](https://immersiveweb.dev/)
